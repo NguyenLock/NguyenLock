@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenlock&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenlock" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs** And **Angular**
 
 - 💬 Ask me about **Angular, Reactjs**
 
