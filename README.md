@@ -1,4 +1,4 @@
-<h1 align="center">What's Up 👋, I'm John Marston</h1>
+<h1 align="center">What's Up 🐧, I'm John Marston</h1>
 <h3 align="center">I'm Website Front-End Developers and some little Back-end</h3>
 <p align="center">If you tell me "why your have foreign name?", because I Want foreigner can call me ez instead of call vietnamese name :>> </p>
 <img align="right" alt="Coding" width="330" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
